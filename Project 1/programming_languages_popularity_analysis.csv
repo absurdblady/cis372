@@ -1,0 +1,21 @@
+Language,SO_Tag_Count,YearIntroduced,Paradigm
+Python,2222218,1991,"OOP, Functional"
+JavaScript,2535083,1995,"OOP, Functional"
+Java,2535083,1995,OOP
+C++,818031,1985,"OOP, Procedural"
+C#,1627703,2000,OOP
+Go,312696,2009,"Concurrent, Procedural"
+Rust,44273,2010,"Systems, Memory-Safe"
+TypeScript,236476,2012,"OOP, Functional"
+Swift,337251,2014,OOP
+Kotlin,99023,2011,OOP
+PHP,1467699,1995,"Scripting, OOP"
+Ruby,338370,1995,"Scripting, OOP"
+Assembly,45464,1949,Low-level
+SQL,676049,1974,Query Language
+MATLAB,94943,1984,Numeric
+R,2535083,1993,Statistical
+Scala,112906,2003,"Functional, OOP"
+Perl,68361,1987,Scripting
+Lua,23145,1993,Scripting
+Objective-C,292008,1984,OOP
